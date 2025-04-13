@@ -129,7 +129,7 @@ All services are connected in the same Docker network.
 **Project:** Nuts Service Subscriber  
 **Prepared for:** Software Engineering Course  
 **Developed by:** Laura Baldryan
-**Submission:** Via GitHub repository ✅
+**Submission:** Via GitHub repository 
 
 ---
 
