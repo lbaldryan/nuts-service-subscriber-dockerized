@@ -22,6 +22,7 @@ A 3-layered Spring Boot application that listens to messages from RabbitMQ (`nut
 
 ```bash
 docker compose down -v
+```
 
 ## Tech Stack
 
@@ -34,6 +35,7 @@ docker compose down -v
 ---
 
 ## Getting Started (Docker Setup)
+
 
 ### 1. Clean everything (optional)
 
